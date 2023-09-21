@@ -97,13 +97,13 @@ ul{
 
 .sarim {
     height: 3px;
-    background: rgb(10, 0, 0);
+    background:rgb(250, 245, 246);
     animation: sarim 1s ease-in 1;
   }
 
   @keyframes sarim {
     from {
-      background: rgb(6, 6, 6);
+      background:rgb(233, 152, 165);
       height: 3px;
       width: 0vw;
 
@@ -120,7 +120,7 @@ ul{
     }
 
     100% {
-      background: rgb(6, 6, 6);
+      background: rgb(251, 243, 244);
       width: 100vw;
 
     }
