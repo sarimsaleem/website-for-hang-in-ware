@@ -129,11 +129,12 @@ ul{
 .carditems{
 	display: flex;
 	flex-wrap: wrap;
-	margin: 40px 50px;
+	margin-top: 10px;
+	margin-left: 30px;
 }
 .card{
 margin: 10px;
 }
-@media(min-width:0px) and (max-width:500px) {}
+
 
 	
